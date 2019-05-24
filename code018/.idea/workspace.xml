@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bdabb05-a938-4dd1-9f87-586f4cc31e07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cdf9f0fa-d452-4eb5-9916-47be005f11c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../code010_基本语法知识点/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code010_基本语法知识点/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../code011/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code011/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../code015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code015/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../code015/src/MultiTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../code015/src/MultiTable.java" afterDir="false" />
@@ -20,41 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AssignFirst.java">
+        <entry file="file://$PROJECT_DIR$/src/RandomNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#70#71#0" expanded="true" />
-                <element signature="e#91#92#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AutoConvert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CalcValueLoss.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="888">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ForceConvert.java">
+        <entry file="file://$PROJECT_DIR$/src/GussNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="592">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -74,10 +52,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AssignFirst.java" />
-        <option value="$PROJECT_DIR$/src/AutoConvert.java" />
-        <option value="$PROJECT_DIR$/src/CalcValueLoss.java" />
-        <option value="$PROJECT_DIR$/src/ForceConvert.java" />
+        <option value="$PROJECT_DIR$/src/RandomNumber.java" />
+        <option value="$PROJECT_DIR$/src/GussNumber.java" />
       </list>
     </option>
   </component>
@@ -94,36 +70,34 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="code010_基本语法知识点" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code010_基本语法知识点" type="462c0819:PsiDirectoryNode" />
+              <item name="code018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="code010_基本语法知识点" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code010_基本语法知识点" type="462c0819:PsiDirectoryNode" />
+              <item name="code018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,33 +111,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForceConvert">
-    <configuration name="AutoConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutoConvert" />
-      <module name="code010_基本语法知识点" />
+  <component name="RunManager" selected="Application.GussNumber">
+    <configuration name="GussNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GussNumber" />
+      <module name="code018" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalcValueLoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalcValueLoss" />
-      <module name="code010_基本语法知识点" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForceConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForceConvert" />
-      <module name="code010_基本语法知识点" />
+    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomNumber" />
+      <module name="code018" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForceConvert" />
-        <item itemvalue="Application.CalcValueLoss" />
-        <item itemvalue="Application.AutoConvert" />
+        <item itemvalue="Application.GussNumber" />
+        <item itemvalue="Application.RandomNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -172,11 +138,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3bdabb05-a938-4dd1-9f87-586f4cc31e07" name="Default Changelist" comment="" />
-      <created>1558668286659</created>
+      <changelist id="cdf9f0fa-d452-4eb5-9916-47be005f11c0" name="Default Changelist" comment="" />
+      <created>1558704966622</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558668286659</updated>
+      <updated>1558704966622</updated>
     </task>
     <servers />
   </component>
@@ -184,7 +150,7 @@
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17972103" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12875536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -193,7 +159,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32976446" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17665952" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -201,47 +167,29 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32976446" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AssignFirst.java">
+    <entry file="file://$PROJECT_DIR$/src/RandomNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#91#92#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="888">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AutoConvert.java">
+    <entry file="file://$PROJECT_DIR$/src/GussNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CalcValueLoss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForceConvert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="592">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
