@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eda3b7be-ee9e-4601-86a3-aa2cfdaa36d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../03_引用类型/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_引用类型/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_引用的缺省值/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_引用的缺省值/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/Merchandise.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="148">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
+              <caret line="4" column="17" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -199,7 +200,7 @@
     <entry file="file://$PROJECT_DIR$/src/Merchandise.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
+          <caret line="4" column="17" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
