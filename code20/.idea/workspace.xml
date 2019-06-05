@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfc10c90-f340-411b-ad23-327d6e456554" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../code20/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code20/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code20/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../code20/code20.iml" afterDir="false" />
+    <list default="true" id="720a204f-16d0-49b8-a8fd-bf4200397f31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code20.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../code018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code018/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code19/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,19 +23,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CreatArray.java">
+        <entry file="file://$PROJECT_DIR$/src/UseArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="296">
+              <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ScoreArrayMaxScore.java">
+        <entry file="file://$PROJECT_DIR$/src/CompareIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+            <state relative-caret-position="296">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -55,15 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CreatArray.java" />
-        <option value="$PROJECT_DIR$/src/ScoreArrayMaxScore.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/UseArray.java" />
+        <option value="$PROJECT_DIR$/src/CompareIndex.java" />
       </list>
     </option>
   </component>
@@ -73,30 +66,32 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="code19" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code19" type="462c0819:PsiDirectoryNode" />
+              <item name="code20" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code20" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="code19" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code19" type="462c0819:PsiDirectoryNode" />
+              <item name="code20" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code20" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,25 +109,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScoreArrayMaxScore">
-    <configuration name="CreatArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreatArray" />
-      <module name="code19" />
+  <component name="RunManager" selected="Application.CompareIndex">
+    <configuration name="CompareIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareIndex" />
+      <module name="code20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScoreArrayMaxScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ScoreArrayMaxScore" />
-      <module name="code19" />
+    <configuration name="UseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseArray" />
+      <module name="code20" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScoreArrayMaxScore" />
-        <item itemvalue="Application.CreatArray" />
+        <item itemvalue="Application.CompareIndex" />
+        <item itemvalue="Application.UseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -141,11 +136,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dfc10c90-f340-411b-ad23-327d6e456554" name="Default Changelist" comment="" />
-      <created>1559702647227</created>
+      <changelist id="720a204f-16d0-49b8-a8fd-bf4200397f31" name="Default Changelist" comment="" />
+      <created>1559705742237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559702647227</updated>
+      <updated>1559705742237</updated>
     </task>
     <servers />
   </component>
@@ -166,7 +161,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2130621" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2098501" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -182,17 +177,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CreatArray.java">
+    <entry file="file://$PROJECT_DIR$/src/UseArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="296">
+          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ScoreArrayMaxScore.java">
+    <entry file="file://$PROJECT_DIR$/src/CompareIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        <state relative-caret-position="296">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
