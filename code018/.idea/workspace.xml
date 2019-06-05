@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdf9f0fa-d452-4eb5-9916-47be005f11c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code19/src/ScoreArrayMaxScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../code19/src/ScoreArrayMaxScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code20/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code021_多维数组/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code021_多维数组/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
