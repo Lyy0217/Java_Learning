@@ -2,13 +2,13 @@ import javax.crypto.Mac;
 
 public class ScoreArrayMaxScore {
     public static void main(String[] args) {
-        //声明六个变量分别代表六门成绩
+       //声明六个变量分别代表六门成绩
         int YuWenIndex = 0;
         int ShuXueIndex = 1;
         int YingYuIndex = 2;
         int WuLiIndex = 3;
         int HuaXueIndex = 4;
-        int ShengWuIndex = 5;
+        int ShengWuIndex = 5
 
         //每门课的名字;
         String[] names = new String[6];
