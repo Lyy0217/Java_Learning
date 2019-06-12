@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b7eecb6-507d-4ae9-b2c6-e18f25f754e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../20_一个成熟的类的对象应该做的事/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../20_一个成熟的类的对象应该做的事/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b7eecb6-507d-4ae9-b2c6-e18f25f754e5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MerchandiseV2OverrideBuyAppMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="518">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -139,6 +137,10 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../22_构造实例的方法" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -180,7 +182,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -195,7 +196,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32976446" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32976446" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22698073" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MerchandiseV2OverrideBuyAppMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="518">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
