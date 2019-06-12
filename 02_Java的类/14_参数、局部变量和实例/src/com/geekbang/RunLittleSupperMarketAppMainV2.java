@@ -3,6 +3,9 @@ package com.geekbang;
 import com.geekbang.superMarket.LittleSuperMarket;
 import com.geekbang.superMarket.MerchandiseV2;
 
+/**
+ *
+ */
 public class RunLittleSupperMarketAppMainV2 {
     public static void main(String[] args) {
         // 创建一个小超市类

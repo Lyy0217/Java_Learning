@@ -91,6 +91,10 @@ public class MerchandiseV2 {
 
     public MerchandiseV2 gift;
 
+    /**
+     *
+     * @return
+     */
     public double getSoldPrice() {
         return soldPrice;
     }
@@ -108,6 +112,10 @@ public class MerchandiseV2 {
         m2 = gift;
     }
 
+    /**
+     *
+     * @param intVal
+     */
     public void willOutsideValueChangeIfParameterValueChangeHerePrime(int intVal) {
         intVal = 99999999;
     }
